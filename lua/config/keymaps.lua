@@ -8,7 +8,7 @@ local opts = { noremap = true, silent = true }
 keymap.set("n", "+", "<C-a>")
 
 -- Delete a word backward
-keymap.set("n", "dw", "vb_d")
+keymap.set("n", "dw", 'vb"_d')
 
 -- Select all
 keymap.set("n", "<C-a>", "gg<S-v>G")
@@ -23,7 +23,7 @@ keymap.set("n", "<s-tab>", ":tabprev<Return>", opts)
 
 -- Split window
 keymap.set("n", "ss", ":split<Return>", opts)
-keymap.set("n", "sv", ":vplit<Return>", opts)
+keymap.set("n", "sv", ":vsplit<Return>", opts)
 -- Move window
 keymap.set("n", "sh", "<C-w>h")
 keymap.set("n", "sk", "<C-w>k")
