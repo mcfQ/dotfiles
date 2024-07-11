@@ -14,7 +14,7 @@
   - [wezterm](https://github.com/wez/wezterm) **_(Linux, Macos & Windows)_**
   - [alacritty](https://github.com/alacritty/alacritty) **_(Linux, Macos & Windows)_**
   - [iterm2](https://iterm2.com/) **_(Macos)_**
-- [Kanagawa](https://github.com/rebelot/kanagawa.nvim)
+- [Cyberdream](https://github.com/scottmckendry/cyberdream.nvim)
 
 ## Shell setup (macOS & Linux)
 
