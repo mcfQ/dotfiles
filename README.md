@@ -23,3 +23,7 @@
 - [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Powerline-patched fonts. I use JetBrainsMonoNL.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Command Suggestions
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Syntax Colouring
+
+
+## Neovim
+![CleanShot 2024-07-11 at 23 19 32@2x](https://github.com/user-attachments/assets/b31ef724-ce14-47e1-bc56-386a010c88b5)
